@@ -1,0 +1,2 @@
+# E-Commerce-Project
+The Project that I've developed is an responsive E-commerce website. The website shows you the quality of products with the reasonable price. In this website we have a lot of categories like women's Traditional wear, Women's Western wear, Mens Traditional and western wear, girls western and traditional wear, kids traditional and western wear, wedding costumes , footwerr and many other categories. Customer satisfaction is our first priority.
